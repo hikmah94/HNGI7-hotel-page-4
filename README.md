@@ -1,7 +1,5 @@
 # HNGI7-hotel-page-4
 
-# HNGi7-First-Task
-
 ## Useful Links
 
 ## [How To Create A Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
@@ -12,7 +10,7 @@ Fork the repo by clicking on the fork button
 You will be redirected to a URL like this
 
 ```
-https://github.com/yourgithubusername/HNGi7-First-Task
+https://github.com/yourgithubusername/HNGI7-hotel-page-4
 ```
 
 Click on the clone or download button to select to copy the link 
@@ -27,9 +25,9 @@ open your terminal and change directory into the directory you want to use for t
 git clone https://github.com/yourgithubusername/HNGI7-hotel-page-4.git
 ```
 
-change directory into the newly cloned `HNGi7-First-Task` folder using the command 
+change directory into the newly cloned `HNGI7-hotel-page-4` folder using the command 
 ```
-cd HNGi7-First-Task
+cd HNGI7-hotel-page-4
 ```
 
 create a new branch with your name.
@@ -38,27 +36,8 @@ create a new branch with your name.
 git checkout -b yourgithubusername
 ```
 
-Add your script inside the `scripts` folder
+Add your script inside the javascript inside `javascript`, images inside `images`,CSS inside `CSS`, folder respectiely
 
-Start the developmenet server.
-```
-php -S localhost:4000
-```
-
-The command above will create a localserver for you. Showing something like this in your terminal.
-``` 
-PHP 7.3.18-1+ubuntu18.04.1+deb.sury.org+1 Development Server started at Thu Jun  4 08:20:58 2020
-Listening on http://localhost:4000
-```
-
-open your browser and enter the address
-```
-http://localhost:4000
-```
-
-kindly wait till the page stop loading then find your name using `Ctrl + f` on windows or `command + f` on MacOs.
-If your script is passed. Great!!! Congratulations.
-You are free to continue the next steps.
 
 Make your changes know to git.
 ```
